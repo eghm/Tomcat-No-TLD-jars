@@ -1,2 +1,4 @@
+Tld Scanner must be configured in tomcat/conf/logging.properties to log jars with no TLD files.
+
 See tomcat-7 or tomact-8 directories.  
 
