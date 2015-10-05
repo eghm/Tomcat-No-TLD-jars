@@ -1,0 +1,3 @@
+Created from Tomcat 7.0.19.  Depending on your localization, you might need to change change the grep to match your "no jar" text in NoTldJars.sh. If you prefer all the jars on one line see the commented out line in NoTldJars.sh.
+  
+
